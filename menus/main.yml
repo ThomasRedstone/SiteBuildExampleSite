@@ -1,0 +1,9 @@
+-
+  url: "/"
+  text: <span class="glyphicon glyphicon-home"></span>Home
+-
+  url: "/about"
+  text: About
+-
+  url: "/contact"
+  text: <span class="glyphicon glyphicon-inbox"></span>Contact
